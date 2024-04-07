@@ -9,29 +9,34 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Medardo+Tejada++;QA+Automation+Tester;&font=Fira%20Code&center=true&width=440&height=45&size=22""></a>
 </p>
+🚀 Me considero un eterno aprendiz.  <br>
+🍷 Apasionado a la naturaleza, la agricultura y el deporte.  <br>
+🤖 Además tengo un profundo interés en la Investigación y Desarrollo, así como en la integración de nuevas tecnologías en mi entorno de trabajo.
+  <br> <br/>  </p>
+<p>
+🧑‍🚀 3+ años de experiencia profesional con:
 
-📄 Actualmente cuento con experiencia desarrollando con las siguientes tecnologias:
+- Metodologia Agil | Scrum
 - Postman
-- api automation test con Karate-DSL
-- Java | Maven
-- AWS
-- MySQL
+- Pruebas automatizadas con Karate-DSL (api rest | backend | integración | microservicios)
+- Java | POO | SOLID
+- Maven | POM
+- AWS | SDK Java | pruebas automatizadas con AWS (Lambda, S3, DynamoDB, entre otras.)
+- MySQL | Querys en pruebas automatizadas
 - Git
-- Jira | Jira xRay | Jira api
+- Jira | Jira Xray | Jira api | Pruebas automatizadas con Jira api
 - Cucumber | BDD
 - además me encanta el trabajo en equipo, la resolución de problemas y el constante aprendizaje.
-  <br>
-  <br>
-  <br>
+</p> <br/>
 
-</p>
+
 
 ¿a donde me dirijo?🚀
-  <br/>
+<br/>
 - Actualmente me encuentro estudiando tecnologias para Pruebas Continuas (QA Automation + DevOps).
 - Voy a crecer como desarrollador de pruebas automatizadas, teniendo como pilares las normas dictadas en el ISTQB y mi pasion por investigar e integrar nuevas tecnologias.
 - Y principalmente a seguir con mi mejora continua de habilidades blandas.
-<br></br>
+  <br></br>
 </p>
 
  </br>
