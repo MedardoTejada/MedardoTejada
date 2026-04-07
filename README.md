@@ -1,5 +1,5 @@
 # Hola, soy Medardo Tejada 👋
-### QA Automation Engineer | AI-Powered
+### QA Automation Engineer | AI-Agent Developer
 
 🚀 Me considero un eterno aprendiz.
 🍷 Apasionado a la naturaleza, la agricultura y el deporte.
